@@ -7,18 +7,23 @@
 - [Apps](#apps)
 - [Articles](#articles)
 - [Documentation](#documentation)
-- [Tutorials](#tutorials)
+- [Libraries](#libraries)
+- [Official Tutorials](#official-tutorials)
+- [Products](#products)
 
 ## Apps
 
-Made with Agora.IO SDK.
+> Open source projects made with Agora.io SDK
+- [Sample App with Agora Flutter SDK](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
 
-### Closed Source
-- [Agora Video Call](https://videocall.agora.io)
-- [Agora Live](https://docs.agora.io/en/Agora%20Platform/downloads)
-- [分贝](https://docs.agora.io/en/Agora%20Platform/downloads)
+## Articles
 
-## Tutorials
+## Libraries 
+- [Electron SDK](https://github.com/AgoraIO/Electron-SDK)
+- [Flutter SDK](https://github.com/AgoraIO/Flutter-SDK)
+- [React Native SDK](https://github.com/syanbo/react-native-agora)
+
+## Official Tutorials
 - [1-to-1 video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/One-to-One-Video)
 - [Group video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/Group-Video)
 - [1-to-1 voice](https://github.com/AgoraIO/Basic-Audio-Call/tree/master/One-to-One-Voice)
@@ -30,3 +35,8 @@ Made with Agora.IO SDK.
 - [Video data encryption](https://github.com/AgoraIO/Advanced-Video/tree/master/Customized-Encryption)
 - [Raw video capture data](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
 - [Raw video capture data with MediaIO](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
+
+## Products
+- [Agora Video Call](https://videocall.agora.io)
+- [Agora Live](https://docs.agora.io/en/Agora%20Platform/downloads)
+- [分贝](https://docs.agora.io/en/Agora%20Platform/downloads)
