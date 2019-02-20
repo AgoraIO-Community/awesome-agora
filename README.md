@@ -5,9 +5,9 @@
 ## Contents
 
 - [Apps](#apps)
-- [Tutorials](#tutorials)
-- [Documentation](#documentation)
 - [Articles](#articles)
+- [Documentation](#documentation)
+- [Tutorials](#tutorials)
 
 ## Apps
 
