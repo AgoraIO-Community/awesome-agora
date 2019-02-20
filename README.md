@@ -38,7 +38,17 @@
 - [With Callkit](https://github.com/AgoraIO/Advanced-Video/tree/master/Calling-Interface/Agora-RTC-With-CallKit)
 - [Video data encryption](https://github.com/AgoraIO/Advanced-Video/tree/master/Customized-Encryption)
 - [Raw video capture data](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
-- [Raw video capture data with MediaIO](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
+- [Raw video capture data with MediaIO](https://github.com/AgoraIO/Advanced-Video/tree/master/Custom-Media-Device)
+- [Raw audio capture data with MediaIO](https://github.com/AgoraIO/Advanced-Audio/tree/master/Custom-Audio-Device)
+- [Hooking](https://github.com/AgoraIO/Advanced-Video/tree/master/Hooking-API)
+- [Large Video Room](https://github.com/AgoraIO/Advanced-Video/tree/master/Large-Group-Video-Chat)
+- [Media Player Windows](https://github.com/AgoraIO/Advanced-Video/tree/master/MediaPlayer/Mediaplayer-Windows)
+- [Picture in Picture Android](https://github.com/AgoraIO/Advanced-Video/tree/master/PIP/Agora-Picture-in-Picture-Android)
+- [Screenshare Mobile](https://github.com/AgoraIO/Advanced-Video/tree/master/Screensharing)
+- [Video call with text chat](https://github.com/AgoraIO/Advanced-Video/tree/master/Video-Call-with-Chat)
+- [With ASMR](https://github.com/AgoraIO/Advanced-Audio/tree/master/Dual-Channel/Agora-RTC-With-ASMR)
+- [Voice Changer](https://github.com/AgoraIO/Advanced-Audio/tree/master/Voice-Changer)
+- [Voice Position](https://github.com/AgoraIO/Advanced-Audio/tree/master/Voice-Position/AgoraChickenDinner)
 
 ## Products
 - [Agora Video Call](https://videocall.agora.io)
