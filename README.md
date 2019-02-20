@@ -50,6 +50,14 @@
 - [Voice Changer](https://github.com/AgoraIO/Advanced-Audio/tree/master/Voice-Changer)
 - [Voice Position](https://github.com/AgoraIO/Advanced-Audio/tree/master/Voice-Position/AgoraChickenDinner)
 
+## Videos
+- [声网Agora Web SDK 快速使用教程](https://www.bilibili.com/video/av38994467)
+- [声网Agora iOS SDK 快速使用教程](https://www.bilibili.com/video/av38994556)
+- [声网Agora Windows SDK 快速使用教程](https://www.bilibili.com/video/av38994653)
+- [声网Agora Android SDK 快速使用教程](https://www.bilibili.com/video/av38994850)
+- [声网Agora Cocos SDK 快速使用教程](https://www.bilibili.com/video/av38995294)
+- [声网Agora macOS SDK 快速使用教程](https://www.bilibili.com/video/av38994769)
+- [声网Agora录制SDK使用教程](https://www.bilibili.com/video/av41944723)
 ## Products
 - [Agora Video Call](https://videocall.agora.io)
 - [Agora Live](https://docs.agora.io/en/Agora%20Platform/downloads)
