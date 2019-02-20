@@ -9,6 +9,7 @@
 - [Documentations](#documentations)
 - [Libraries](#libraries)
 - [Tutorials](#tutorials)
+- [Videos](#videos)
 - [Products](#products)
 
 ## CodeLabs
