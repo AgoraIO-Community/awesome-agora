@@ -19,3 +19,10 @@ Made with Agora.IO SDK.
 - [分贝](https://docs.agora.io/en/Agora%20Platform/downloads)
 
 ## Tutorials
+- [1-to-1 video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/One-to-One-Video)
+- [Group video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/Group-Video)
+- [1-to-1 voice](https://github.com/AgoraIO/Basic-Audio-Call/tree/master/One-to-One-Voice)
+- [Group voice](https://github.com/AgoraIO/Basic-Audio-Call/tree/master/Group-Voice-Call)
+- [Live broadcasting](https://github.com/AgoraIO/Basic-Video-Broadcasting)
+- [Live broadcasting voice](https://github.com/AgoraIO/Basic-Audio-Broadcasting)
+- [Augmented Reality](https://github.com/AgoraIO/Advanced-Video/tree/master/Augmented-Reality)
