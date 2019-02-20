@@ -4,17 +4,18 @@
 
 ## Contents
 
-- [Apps](#apps)
+- [CodeLabs](#labs)
 - [Articles](#articles)
 - [Documentations](#documentations)
 - [Libraries](#libraries)
 - [Official Tutorials](#official-tutorials)
 - [Products](#products)
 
-## Apps
+## CodeLabs
 
 > Open source projects made with Agora.io SDK
-- [Sample App with Agora Flutter SDK](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
+- [Agora Flutter Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
+- [Agora Electron Quickstart](https://github.com/AgoraIO-Community/Agora-Electron-Quickstart)
 
 ## Articles
 
