@@ -26,3 +26,7 @@ Made with Agora.IO SDK.
 - [Live broadcasting](https://github.com/AgoraIO/Basic-Video-Broadcasting)
 - [Live broadcasting voice](https://github.com/AgoraIO/Basic-Audio-Broadcasting)
 - [Augmented Reality](https://github.com/AgoraIO/Advanced-Video/tree/master/Augmented-Reality)
+- [With Callkit](https://github.com/AgoraIO/Advanced-Video/tree/master/Calling-Interface/Agora-RTC-With-CallKit)
+- [Video data encryption](https://github.com/AgoraIO/Advanced-Video/tree/master/Customized-Encryption)
+- [Raw video capture data](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
+- [Raw video capture data with MediaIO](https://github.com/AgoraIO/Advanced-Video/tree/master/Capture-Raw-Video-Data)
