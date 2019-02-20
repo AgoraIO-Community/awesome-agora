@@ -5,8 +5,7 @@
 ## Contents
 
 - [Apps](#apps)
-- [Projects](#projects)
-- [Third-party Platforms](#platforms)
+- [Tutorials](#tutorials)
 - [Documentation](#documentation)
 - [Articles](#articles)
 
@@ -15,6 +14,8 @@
 Made with Agora.IO SDK.
 
 ### Closed Source
-- [Agora Video Call](https://docs.agora.io/en/Agora%20Platform/downloads)
+- [Agora Video Call](https://videocall.agora.io)
 - [Agora Live](https://docs.agora.io/en/Agora%20Platform/downloads)
 - [分贝](https://docs.agora.io/en/Agora%20Platform/downloads)
+
+## Tutorials
