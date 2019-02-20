@@ -6,7 +6,7 @@
 
 - [Apps](#apps)
 - [Articles](#articles)
-- [Documentation](#documentation)
+- [Documentations](#documentations)
 - [Libraries](#libraries)
 - [Official Tutorials](#official-tutorials)
 - [Products](#products)
@@ -17,6 +17,9 @@
 - [Sample App with Agora Flutter SDK](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
 
 ## Articles
+
+## Documentations
+- [Official Docs](https://docs.agora.io/)
 
 ## Libraries 
 - [Electron SDK](https://github.com/AgoraIO/Electron-SDK)
