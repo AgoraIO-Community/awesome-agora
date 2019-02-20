@@ -8,7 +8,7 @@
 - [Articles](#articles)
 - [Documentations](#documentations)
 - [Libraries](#libraries)
-- [Official Tutorials](#official-tutorials)
+- [Tutorials](#tutorials)
 - [Products](#products)
 
 ## CodeLabs
@@ -27,7 +27,7 @@
 - [Flutter SDK](https://github.com/AgoraIO/Flutter-SDK)
 - [React Native SDK](https://github.com/syanbo/react-native-agora)
 
-## Official Tutorials
+## Tutorials
 - [1-to-1 video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/One-to-One-Video)
 - [Group video](https://github.com/AgoraIO/Basic-Video-Call/tree/master/Group-Video)
 - [1-to-1 voice](https://github.com/AgoraIO/Basic-Audio-Call/tree/master/One-to-One-Voice)
