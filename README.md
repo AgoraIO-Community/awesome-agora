@@ -60,6 +60,7 @@
 - [声网Agora macOS SDK 快速使用教程](https://www.bilibili.com/video/av38994769)
 - [声网Agora录制SDK使用教程](https://www.bilibili.com/video/av41944723)
 ## Products
-- [Agora Video Call](https://videocall.agora.io)
-- [Agora Live](https://docs.agora.io/en/Agora%20Platform/downloads)
-- [分贝](https://docs.agora.io/en/Agora%20Platform/downloads)
+- Agora Video Call for [Web](https://videocall.agora.io) & [iOS](https://itunes.apple.com/us/app/agora-video-call/id1080303824) & [Android](https://play.google.com/store/apps/details?id=io.agora.vcall) & [mac](https://itunes.apple.com/us/app/agora-video-call/id1112106913) & [Windows](https://download.agora.io/avc/release/AgoraVideoCall_for_windows_3.0.5.zip)
+- Agora Live for [iOS](https://itunes.apple.com/cn/app/id1116886856) & [Android](https://play.google.com/store/apps/details?id=io.agora.vlive)
+- Agora Beckon for [iOS](https://itunes.apple.com/cn/app//id927792759) & [Android](https://play.google.com/store/apps/details?id=cc.beckon)
+- [分贝-高音质语音聊天室](https://itunes.apple.com/cn/app/分贝-agora-高音质语音聊天室/id1417827292)
