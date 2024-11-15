@@ -12,7 +12,6 @@ To learn more about Agora’s Real-Time Engagement Platform, check out this vide
 
 ## Contents
 
-- [Extensions](#extensions)
 - [Articles](#articles)
 - [Documentation](#documentation)
 - [Products](#products)
@@ -20,18 +19,6 @@ To learn more about Agora’s Real-Time Engagement Platform, check out this vide
 - [Videos](#videos)
 - [Demo Apps](#demo-apps)
 - [Web Demos](#web-demos)
-
-## Extensions
-
-> Open source extensions built with the Agora.io SDK
-
-- [Agora Flutter SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK)
-- [Agora Flutter RTM SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-RTM-SDK)
-- [Agora React Native SDK](https://github.com/AgoraIO-Extensions/react-native-agora)
-- [Agora Electron SDK](https://github.com/AgoraIO-Extensions/Electron-SDK)
-- [Agora Unity Quickstart](https://github.com/AgoraIO-Extensions/Agora-Unity-Quickstart)
-- [Agora Unreal RTC SDK](https://github.com/AgoraIO-Extensions/Agora-Unreal-RTC-SDK)
-- [Agora Golang Server SDK](https://github.com/AgoraIO-Extensions/Agora-Golang-Server-SDK)
 
 ## Articles
 
@@ -76,6 +63,18 @@ For more, visit our [Developer Blog](https://www.agora.io/en/category/developer/
 - [AI Noise Suppression](https://www.agora.io/en/products/ai-noise-suppression/)
 - [Analytics](https://www.agora.io/en/products/agora-analytics/)
 - [Extensions Marketplace](https://www.agora.io/en/extensions-marketplace/)
+
+### Extension SDKs
+
+> Open source cross-platform framework extensions built using the Agora SDKs
+
+- [Agora Flutter SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK)
+- [Agora Flutter RTM SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-RTM-SDK)
+- [Agora React Native SDK](https://github.com/AgoraIO-Extensions/react-native-agora)
+- [Agora Electron SDK](https://github.com/AgoraIO-Extensions/Electron-SDK)
+- [Agora Unity Quickstart](https://github.com/AgoraIO-Extensions/Agora-Unity-Quickstart)
+- [Agora Unreal RTC SDK](https://github.com/AgoraIO-Extensions/Agora-Unreal-RTC-SDK)
+- [Agora Golang Server SDK](https://github.com/AgoraIO-Extensions/Agora-Golang-Server-SDK)
 
 ## Tutorials
 
@@ -150,8 +149,10 @@ For more, visit our [Developer Blog](https://www.agora.io/en/category/developer/
 
 ## Web Demos
 
-To demo all of Agora's Web SDK features, check out the [Agora Web SDK Demos](https://webdemo.agora.io/) page.
-This includes the following examples:
+To demo all of Agora's Web SDK features, check out the [Agora Web SDK Demos](https://webdemo-global.agora.io/index.html) page.
+To use the Agora demos you will have to configure your `AppID` and `AppCertificate`.
+
+Demos included:
 
 #### Basic Features
 
