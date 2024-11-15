@@ -149,10 +149,7 @@ For more, visit our [Developer Blog](https://www.agora.io/en/category/developer/
 
 ## Web Demos
 
-To demo all of Agora's Web SDK features, check out the [Agora Web SDK Demos](https://webdemo-global.agora.io/index.html) page.
-To use the Agora demos you will have to configure your `AppID` and `AppCertificate`.
-
-Demos included:
+To demo all of Agora's Web SDK features, check out the [Agora Web SDK Demos](https://webdemo-global.agora.io/index.html) page. Demos included:
 
 #### Basic Features
 
