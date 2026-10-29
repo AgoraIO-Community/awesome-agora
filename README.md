@@ -146,6 +146,7 @@ For more, visit our [Developer Blog](https://www.agora.io/en/category/developer/
 
 - Agora Video Call for [Web](https://videocall.agora.io), [iOS](https://itunes.apple.com/us/app/agora-video-call/id1080303824), [Android](https://play.google.com/store/apps/details?id=io.agora.vcall), [macOS](https://itunes.apple.com/us/app/agora-video-call/id1112106913), [Windows](https://download.agora.io/avc/release/AgoraVideoCall_for_windows_3.0.5.zip)
 - Agora Live for [iOS](https://itunes.apple.com/cn/app/id1116886856) & [Android](https://play.google.com/store/apps/details?id=io.agora.vlive)
+- [Trick or Take](https://trickortake.com) ([Source](https://github.com/zicojiao/trick-or-take)) - Open-source multiplayer Halloween browser game featuring real-time Agora RTC voice rooms and RTM hints.
 
 ## Web Demos
 
